@@ -1,0 +1,34 @@
+media: media
+content:
+  - name: projects
+    label: Projects
+    type: collection
+    path: 'src/projects/markdowns'
+    view:
+      fields: [ title, published ]
+    fields:
+
+      - name: published
+        type: boolean
+        default: false
+
+      - name: title
+        type: string
+
+      - name: slug
+        type: string
+
+      - name: description
+        type: string
+
+      - name: subdomains
+        type: string
+
+      - name: tags
+        type: string
+        
+      - name: date
+        type: date
+
+      - name: body
+        type: rich-text

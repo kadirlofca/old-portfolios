@@ -1,0 +1,22 @@
+{
+    "fullName": "Kadir Lofca",
+    "location": "North Carolina",
+    "professions": {
+        "general": {
+            "title": "Software Engineer",
+            "description": "I love creating useful tools, beautiful interfaces, and fun experiences."
+        },
+        "softwareEngineering": {
+            "title": "Software Engineer",
+            "description": "I have worked on fullstack web apps at Genesys, Santai.GG, and freelance."
+        },
+        "gameDevelopment": {
+            "title": "Gameplay Engineer",
+            "description": "I led many projects where I designed and implemented game features."
+        },
+        "cybersecurity": {
+            "title": "Cybersecurity Analyst",
+            "description": "I'm CompTIA Security+ certified. I maintain a home server where I apply my knowledge and skills."
+        }
+    }
+}
